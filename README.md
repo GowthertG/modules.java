@@ -1,7 +1,5 @@
 # 📚 Java Modules for Learning
 
-Hello,
-
 This repository contains a set of Java learning modules provided by 42.  
 Each module focuses on a key area of Java development.  
 
