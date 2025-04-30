@@ -16,7 +16,7 @@ public class ThreadSum implements Runnable {
 
     @Override
     public void run() {
-        for (int i = from; i <= to; i++) {
+        for(int i = from; i <= to; i++){
             sum += arr[i];
         }
         System.out.println("Thread " + index + ": from " + from + " to " + to + " sum is " + sum);
